@@ -34,9 +34,10 @@ Contributions to improve the notebook are welcome. Please follow the standard pr
 ## Setup
 
 First, clone the repository or download the Jupyter notebook to your local machine.
-
+```
 cd TextToSpeechPytorch.ipynb
-
+```
 ## Install Dependencies:
 ```
 pip or pip3 install deep_phonemizer Jupyter Notebook torch torchaudio matplotlib IPython
+```
