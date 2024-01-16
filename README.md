@@ -39,11 +39,11 @@ First, clone the repository or download the Jupyter notebook to your local machi
 
 ---
 
-### Install Dependencies
+## Install Dependencies
 
 Run the following command in your notebook or terminal to install the required package `deep_phonemizer`:
 
-```bash
-pip or pip3 install deep_phonemizer Jupyter Notebook torch torchaudio matplotlib IPython after this want on sperate line for code : ## Text to Speech Conversion
-The notebook contains code that uses PyTorch and deep_phonemizer to convert text into speech. Follow the steps in the notebook, entering the text you want to convert when prompted.
 
+
+```bash
+pip or pip3 install deep_phonemizer Jupyter Notebook torch torchaudio matplotlib IPython after this want on sperate line for code : 
