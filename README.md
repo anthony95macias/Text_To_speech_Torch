@@ -37,13 +37,8 @@ First, clone the repository or download the Jupyter notebook to your local machi
 
 ``` Cd TextToSpeechPytorch.ipynb
 
----
-
 ## Install Dependencies
 
 Run the following command in your notebook or terminal to install the required package `deep_phonemizer`:
-
-
-
 ```bash
 pip or pip3 install deep_phonemizer Jupyter Notebook torch torchaudio matplotlib IPython after this want on sperate line for code : 
